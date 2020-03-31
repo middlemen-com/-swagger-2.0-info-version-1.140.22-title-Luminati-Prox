@@ -1,11 +1,4 @@
-/
-//
-//'master'
-//github/middlemen-com/polywld7/CEO/owner/author/editor/
-/
-//[Paul][Leon][Diaz]=[∆]
-----------------------------------------
-#
+{
 
 ## Welcome to GitHub Pages
 
@@ -44,3 +37,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+{
+  <!HTML, userprofile> class:src 
+ 
+  'https://documentcloud.adobe.com/link/review?
+    uri=urn%3Aaaid%3Ascds%3AUS%3A47c26b8e-b534-4f8b-9b67-522e18f36732'
+##
+###
